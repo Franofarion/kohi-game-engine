@@ -68,7 +68,11 @@
         "optional": "c",
         "system_error": "c",
         "xlocmon": "c",
-        "xtr1common": "c"
+        "xtr1common": "c",
+        "iosfwd": "c",
+        "xlocbuf": "c",
+        "entry.h": "c",
+        "application.h": "c"
     },
     "C_Cpp.default.compilerPath": "C:\\Program Files\\LLVM\\bin\\clang.exe"
 }
