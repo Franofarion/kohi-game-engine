@@ -72,7 +72,8 @@
         "iosfwd": "c",
         "xlocbuf": "c",
         "entry.h": "c",
-        "application.h": "c"
+        "application.h": "c",
+        "platform.h": "c"
     },
     "C_Cpp.default.compilerPath": "C:\\Program Files\\LLVM\\bin\\clang.exe"
 }
